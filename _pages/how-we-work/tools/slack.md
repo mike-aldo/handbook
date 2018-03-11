@@ -6,7 +6,7 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 ## Setup
 
-Because Slack is a web application, there’s no installation necessary. You can [login online](https://gsa-LifeCare IT.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
+Because Slack is a web application, there’s no installation necessary. You can [login online](https://lifecareit.slack.com/account/profile) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
 
 ## Rules
 
