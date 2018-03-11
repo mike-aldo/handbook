@@ -6,56 +6,57 @@ Slack is a chat client that provides us with a centralized way to communicate wi
 
 ## Setup
 
-Because Slack is a web application, there’s no installation necessary. You can [login online](https://gsa-tts.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
+Because Slack is a web application, there’s no installation necessary. You can [login online](https://gsa-LifeCare IT.slack.com/) or download the [desktop](https://itunes.apple.com/us/app/slack/id803453959?mt=12) or [mobile](https://itunes.apple.com/us/app/slack-team-communication/id618783545?mt=8) clients from the App Store.
 
 ## Rules
 
-- **Complete [your profile](https://gsa-tts.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
-- **[Enable two-factor authentication (2FA)](https://slack.zendesk.com/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
-- **Abide by [the 18F Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [Holly Allen](https://gsa-tts.slack.com/messages/holly).
+- **Complete [your profile](https://lifecareit.slack.com/account/profile).** A complete profile gives everyone a better chance of knowing who you are. This includes your first name, last name (optionally followed by your location and [personal pronouns](http://pronoun.is/) in parenthesis), profile picture (photos are preferred, but not required), phone number, and a summary of what you do and what teams you’re on.
+- **[Enable two-factor authentication (2FA)](https://get.slack.help/hc/en-us/articles/204509068-Enabling-two-factor-authentication).** You can either do this through SMS or an authentication tool. Slack provides detailed instructions for both options. If you need to reset 2FA, Slack admins will re-verify your identity.
+- **Abide by [the LifeCare Inc Code of Conduct](/code-of-conduct).** If you see anyone violating our Code of Conduct, please contact [PERSON](https://lifecareit.slack.com/messages/PERSON).
 - **Do not post anything that would make our systems vulnerable or would impact the privacy of others if it fell into the wrong hands.** See [18F's list of alternatives](../sensitive-information/#tools).
 - **Assume everything you share will be made public**. Treat Slack as a public forum — you have _no_ privacy. This includes file uploads to Slack and any audio or video transmitted using a Slack Call.
 
-## Usage of TTS's Slack
+## Usage of LifeCare IT's Slack
 
-Slack is required for all [TTS](http://www.gsa.gov/portal/category/25729) staff. We can also invite people outside TTS to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from TeamOps or security clearance from Infrastructure. These users may include:
+Slack is required for all IT Operations staff. We can also invite people outside LifeCare Inc to have access to a **single channel** on our Slack account. These single-channel users are free, and don't need financial authorization from Operations or security clearance from Infrastructure. These users may include:
 
-- Vendors _under contract_ (not just a Terms of Service) with TTS
-- Vendors with GSA who are working on a project with TTS, for which we have an Memorandum of Understanding (MOU)
-- Partners at federal agencies whose projects are under an Interagency Agreement with TTS
-- Federal staff with government email addresses (for example, friends at the USDS, CFPB, other teams inside GSA, etc.)
-- Members of the public collaborating on an open source project in a public channel via [chat.18f.gov](https://chat.18f.gov)
+- Vendors _under contract_ (not just a Terms of Service) with LifeCare Inc
+- Vendors who are working on a project with LifeCare IT, for which we have an Memorandum of Understanding (MOU)
+- Partners at federal agencies whose projects are under an Interagency Agreement with LifeCare IT
+- Federal staff with government email addresses
+- Members of the public collaborating on an open source project
 
 ## Usage of other Slack workspaces
 
-You may be invited to other Slack workspaces operated by government entities, or entities under contract to the government. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **government email address** and ensure your avatar and profile information are consistent across Slack workspaces. If you're invited to Slack workspaces unrelated to your job, you must join those workspaces with a personal email address.
+You may be invited to other Slack workspaces operated by clients, or entities under contract with LifeCare Inc. You're allowed to join those workspaces as necessary for your work. You should join those workspaces with your **LifeCare email address** and ensure your avatar and profile information are consistent across Slack workspaces. If you're invited to Slack workspaces unrelated to your job, you must join those workspaces with a personal email address.
 
 ## Adding people
 
-### TTS staff
+### LifeCare IT staff
 
-Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+Fill out the [user request form](https://docs.google.com/a/lifecare.com/forms/we_need_a_form).
 
 ### External collaborators
 
-You can invite government partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as [single-channel guests](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) at no cost to the project or agency. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://slack.com/pricing) to your IAA.
+You can invite partners, contractors, etc. to specific project channels to foster collaboration and asynchronous communication with the team. Several projects have [created](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel) specific channels that end with `-partners`. Our partners may be invited as [single-channel guests](https://get.slack.help/hc/en-us/articles/202518103-Multi-Channel-and-Single-Channel-Guests) at no cost to the project or company. Giving partners access to _more_ than one channel will be billed [the normal Slack user rate](https://slack.com/pricing).
 
 1. [Create a `<project>-partners` channel](https://get.slack.help/hc/en-us/articles/201402297-Creating-a-channel), if you don't want them in an existing channel.
-1. Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
+1. Fill out the [user request form](https://docs.google.com/a/lifecare.com/forms/we_need_a_form).
 
-### Friends
+[//]: # "To be removed"
+[//]: # ### Friends
+[//]: # Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a project](#external-collaborators) can be invited into [#friends](https://gsa-LifeCare IT.slack.com/messages/friends/), or any of the [public channels](#the-public). Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-Friends with `.gov`/`.mil` email addresses who aren't [collaborating on a project](#external-collaborators) can be invited into [#friends](https://gsa-tts.slack.com/messages/friends/), or any of the [public channels](#the-public). Fill out the [user request form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform).
 
-### The public
+### Outside IT
 
-[TTS](http://www.gsa.gov/portal/category/25729) has specific channels in Slack that are open to the public. These channels end with `-public` to signify a channel the public can join. Treat these channels like you would a town hall or other type of public meeting. Members of the public must also comply with GSA standards and the [18F Code of Conduct](/code-of-conduct).
+LifeCare IT has specific channels in Slack that are open to the company. These channels end with `-company` to signify a channel the company can join. Treat these channels like you would a town hall or other type of public meeting. Members of the company must also comply with LifeCare Standards and the [Code of Conduct](/code-of-conduct).
 
 #### Inviting
 
-To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://slack.zendesk.com/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
+To invite people to a public Slack channel, send them to [chat.18f.gov](https://chat.18f.gov/) and have them select the appropriate channel from the drop-down. Note that these users are added as [**single-channel** guests](https://get.slack.help/hc/en-us/articles/201314026-Understanding-roles-permissions-inside-Slack).
 
-#### Add a new public channel
+#### Add a new company channel
 
 See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
@@ -63,22 +64,22 @@ See [the instructions](https://github.com/18F/chat#adding-new-public-channels).
 
 Slack users need to be offboarded in the following situations:
 
-* Someone leaving TTS
-    * Someone from [#talent](https://gsa-tts.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
+* Someone leaving LifeCare IT
+    * Someone from [#talent](https://gsa-LifeCare IT.slack.com/messages/talent/) should fill out [the user modification form](https://docs.google.com/a/gsa.gov/forms/d/e/1FAIpQLSfYQ-D82rIGwbCmwF3kAQERqczi5syVGq6GtmQNR6fhxRAA2Q/viewform) when this happens.
 * A partner who's employment/engagement is ending
-    * It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) when this is happening.
+    * It is the responsibility of the engagement manager to inform @slackadmin in [#admins-slack](https://gsa-LifeCare IT.slack.com/messages/admins-slack/) when this is happening.
 
 An admin will then do one of the following:
 
 * **[Convert them to a Single-Channel Guest.](https://get.slack.help/hc/en-us/articles/218124397-Change-a-team-member-s-role)**
     * Put them in one of the following channels (as appropriate):
-        * [#alumni](https://gsa-tts.slack.com/messages/alumni/) (former Full Members only)
+        * [#alumni](https://gsa-LifeCare IT.slack.com/messages/alumni/) (former Full Members only)
         * One of the `-public` channels (their pick)
     * [Disable their 2FA](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team).
         * ...unless you know they were using their personal device for 2FA — we don't want them to be locked out.
     * [Change their email](https://get.slack.help/hc/en-us/articles/225531168-Change-a-team-member-s-email-address) to their personal address
     
-*NOTE: When a TTS Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
+*NOTE: When a LifeCare IT Slack user is converted to a Single-channel user, they maintain access to their direct message chat history but are unable to search for or create new direct messages with folks that they've never messaged before.  Unless another channel is specified, the only channel that will still be accessible is #alumni.
 
 * **[Deactivate their account.](https://get.slack.help/hc/en-us/articles/204475027-Deactivate-a-team-member-s-account)**
 
@@ -98,7 +99,7 @@ Here are the resources used by Slack Admins to track and manage Slack accounts:
 
 Per the mandatory [General Records Schedule 3.1](http://www.archives.gov/records-mgmt/memos/ac33-2014.html) issued by the National Archives and Records Administration (NARA), everything in Slack channels and groups is considered at minimum a temporary record.
 
-To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/) using @slackadmin.
+To ensure compliance with the possibility that we might create permanent or long-lived records in Slack, the records retention policy is set to **retain all messages forever AND also retain edit and deletion logs for all messages**. Users are prohibited from deleting messages. Do not abuse the `edit` command in Slack to effectively delete your message by replacing it with null or symbolic content. Edits for clarity or typos are fine. If any bot or integration ever posts something inappropriate, please call for a clean-up in [#admins-slack](https://gsa-LifeCare IT.slack.com/messages/admins-slack/) using @slackadmin.
 
 This policy applies to all types of Slack communications: public channels, private groups, even direct messages. **Nothing is private.** We use the [compliance export](https://slack.zendesk.com/hc/en-us/articles/203950296-FAQs-about-Slack-s-policy-update#complianceexport) capability in Slack to view all messages. The Primary Team Owner is responsible for ensuring monthly exports and backing these exports up in GSA's Google Drive.
 
@@ -118,7 +119,7 @@ This is the case with most software as a service offerings. Slack has multiple m
 
 _...or "Apps" or "bots"._
 
-You can add new "configurations" of [pre-approved integrations](https://gsa-tts.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-tts.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
+You can add new "configurations" of [pre-approved integrations](https://gsa-LifeCare IT.slack.com/apps/manage) to Slack, for things like posting Trello or GitHub notifications to a Slack channel. You can also freely add new configurations for "Incoming WebHooks," which is on a [different page](https://gsa-LifeCare IT.slack.com/apps/manage/custom-integrations). For any new integration types, please follow the process below.
 
 ### Approval of New Integrations
 
@@ -126,9 +127,9 @@ You can add new "configurations" of [pre-approved integrations](https://gsa-tts.
 
 Note this is only necessary for new bots or *types* of integrations—approval is not needed for new “configurations” of a previously-approved App. The form should filled out again if the nature of the connection changes, e.g. a webhook connection changes to using OAuth.
 
-Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-tts.slack.com/help/requests/new) for help.
+Before completing this form, you might need to research how the integration interacts with Slack. For example, does the integration have read access to channels or not? Reach out to #admins-slack and/or [Slack support](https://gsa-LifeCare IT.slack.com/help/requests/new) for help.
 
-New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-tts-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [TTS](http://www.gsa.gov/portal/category/25729) Slack, fill out the form.
+New integrations being built/hosted by GSA should be developed against the [test Slack](https://gsa-LifeCare IT-testing.slack.com/)—ask in #admins-slack for access. When ready to be integrated into the [LifeCare IT](http://www.gsa.gov/portal/category/25729) Slack, fill out the form.
 
 Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreadsheets/d/1karb4OJPFga493-3bnuWFvhFuk18iFlvz-xWC8ZedSQ/edit#gid=161327310). The form can be edited [here](https://docs.google.com/a/gsa.gov/forms/d/1sH-eLcDMDSBE9xvUnbE39N0PFOcfg6Mf3mnWU8xzBz8/edit).
 
@@ -136,7 +137,7 @@ Responses will be reviewed in [this spreadsheet](https://docs.google.com/spreads
 
 New integrations/bots need approval from the following:
 
-* TTS Slack admins
+* LifeCare IT Slack admins
 * Security Engineering (ISE) (Bo Berlas)
 * OCTO
 * GSA IT (Amar Singh, Chris McFerren, or Derrick Rogers)
@@ -146,7 +147,7 @@ New integrations/bots need approval from the following:
 * Read access from Slack (e.g. RSS) will almost definitely be approved.
 * One-way integrations into Slack (e.g. via webhooks) are almost always fine.
 * Integrations from higher-risk systems (Moderate or High) into Slack will generally not be approved.
-* TTS Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
+* LifeCare IT Infrastructure will advise a hard veto on any externally hosted bots that can read all the messages in channels they are invited into and the only utility from the bot is achieved if they are invited into more or less all the channels.
 
 ## Groups
 
@@ -169,13 +170,13 @@ Groups are a great way to alert people who might not be in a channel about somet
 - **You can use Slack as an archival system.** It has a [powerful search feature](https://get.slack.help/hc/en-us/articles/202528808-Searching-in-Slack) and you can search specific channels or conversations. For instance, if you have a question about a specific healthcare plan, search for that in Slack before asking.
 - You can also search by tagged emoji. To see all messages tagged with a particular emoji, search Slack for `has:{{emoji_name}}` (for example `has::evergreen_tree:`).
 - **Set Slack boundaries when you need to be heads-down** by [setting your status](https://get.slack.help/hc/en-us/articles/201864558-Setting-your-Slack-status) to _Away_. If you use Slack on mobile, you can **prevent direct messages and mentions from pinging you when you're not working**. Just set your phone to Do Not Disturb mode or temporarily turn off notifications from the Slack app. Don't worry — though we have different schedules and may message each other at strange times, there's no expectation for people to respond when they're not working.
-- **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://gsa-tts.slack.com/archives/general-talk), or any channel in which [Charlie](https://gsa-tts.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://gsa-tts.slack.com/archives/love).
+- **Praise your coworkers.** If you'd like to praise someone for doing good work, start a message with `love @username` or `:heart: @username` in [#general-talk](https://gsa-LifeCare IT.slack.com/archives/general-talk), or any channel in which [Charlie](https://gsa-LifeCare IT.slack.com/team/charlie) is present. You can also see recent praise in [#love](https://gsa-LifeCare IT.slack.com/archives/love).
 - **Use text encoding when pasting a large chunk of text.** Use the + sign to the left of the text box to create a snippet. There will be an option to select how you would like to encode the text; select plain text to avoid smart quotes, if you're pasting code.
 - **Emojis come in different colors.** Tired of tabbing through multiple skin color emoji to find the one you want or identify with? Click on the Emoji Deluxe picker (the smily face in the text box) - then click on the emoji in the bottom right corner. You can then select a default color going forward.
 - **Change your color scheme.** You can change your color scheme by going to Preferences --> Theme --> Custom Theme. Paste the following for the US Design Standards theme: `#112E51,#205493,#0071BC,#FFFFFF,#323A45,#FFFFFF,#4AA564,#981B1E`
 - **Screen-sharing tip:** If you want notifications to stop showing up so people don't see them, hover over the Notification Center icon in the top right corner of your screen and **Option + click** on it. Repeat that to turn notifications back on.
-- **Use #news for vital team announcements.** [#news](https://gsa-tts.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
-  - **18F employees** ping @commsquad or post in [#outreach](https://gsa-tts.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Milstein or Andre Francisco can post it.
+- **Use #news for vital team announcements.** [#news](https://gsa-LifeCare IT.slack.com/archives/news) is an announcement-only channel where only administrators can post. If you have a post you’d like to go up in #news:
+  - **18F employees** ping @commsquad or post in [#outreach](https://gsa-LifeCare IT.slack.com/archives/news) to get a review of the language. Once it's ready, Sarah Milstein or Andre Francisco can post it.
   - **Acquisitions employees** review your post with Stephen Reilly, and he can post it when it's ready.
   - **OPP employees** review your post with Jeremy Zilar or John Yuda; one of them can post it when it's ready.
   - **PIF employees** review your post with Nathan Olson, and he can post it when it's ready.
@@ -224,14 +225,14 @@ Some channels may have particular guidance for getting help, which you can usual
 
 ### Bots
 
-- [Angry Tock](https://gsa-tts.slack.com/team/angrytock): our fierce timesheet reminder.
-- [Charlie](https://gsa-tts.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
-- [coffeemate](https://gsa-tts.slack.com/team/coffeemate): direct message @coffeemate with `coffee me` to set up a virtual coffee/tea with a random coworker.
-- [Dolores Landingham](https://gsa-tts.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-tts.slack.com/archives/wg-onboarding).
+- [Angry Tock](https://gsa-LifeCare IT.slack.com/team/angrytock): our fierce timesheet reminder.
+- [Charlie](https://gsa-LifeCare IT.slack.com/team/charlie), a.k.a. _El Hubot Real_: our [Hubot instance](https://github.com/18F/18f-bot). Knows all kinds of tricks. To get a list of them, send Charlie a direct message with the word `help`.
+- [coffeemate](https://gsa-LifeCare IT.slack.com/team/coffeemate): direct message @coffeemate with `coffee me` to set up a virtual coffee/tea with a random coworker.
+- [Dolores Landingham](https://gsa-LifeCare IT.slack.com/team/mrs_landingham): our onboarding bot. Ask for access in [#wg-onboarding](https://gsa-LifeCare IT.slack.com/archives/wg-onboarding).
 - [:evergreen_tree: bot](https://github.com/18F/hubot-slack-github-issues#hubot-slack-github-issues): This bot allows you to “tag” Slack messages as information that should be in the 18F Handbook. If you add an 🌲 (`evergreen_tree`) reaction to a Slack message, a bot will open [a GitHub issue in the 18F Handbook repository](https://github.com/18F/handbook/issues) with a link to that message. The issue serves as a reminder to integrate the linked information into the handbook.
-- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-tts.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-tts.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
+- [Slackbot](https://get.slack.help/hc/en-us/articles/202026038-Slackbot-your-assistant-notepad-programmable-bot): We automate responses to frequently asked questions with a Slackbot. You can update or customize responses [here](https://gsa-LifeCare IT.slack.com/customize/slackbot). (You can also [add emoji](https://gsa-LifeCare IT.slack.com/customize/emoji)). **Do not include private or sensitive information in Slackbot automatic responses.**
 
-If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-tts.slack.com/archives/bots/).
+If you're interested in learning more about the bots, or perhaps contributing to them, pop into [#bots](https://gsa-LifeCare IT.slack.com/archives/bots/).
 
 --------------------------------------------------------------------------------
 
@@ -242,45 +243,45 @@ If you're interested in learning more about the bots, or perhaps contributing to
 * Teams
     * 18F
         * Business Units
-            * [partner-solutions](https://gsa-tts.slack.com/messages/partner-solutions/)
-            * [products-platforms](https://gsa-tts.slack.com/messages/products-platforms/)
+            * [partner-solutions](https://gsa-LifeCare IT.slack.com/messages/partner-solutions/)
+            * [products-platforms](https://gsa-LifeCare IT.slack.com/messages/products-platforms/)
         * 18F Chapters
-            * [design](https://gsa-tts.slack.com/messages/design/)
-            * [dev](https://gsa-tts.slack.com/messages/dev/) (Engineering)
-            * [product](https://gsa-tts.slack.com/messages/product/)
-            * [strategy](https://gsa-tts.slack.com/messages/strategy/)
-    * [infrastructure](https://gsa-tts.slack.com/messages/infrastructure/)
-    * [opp](https://gsa-tts.slack.com/messages/opp/)
+            * [design](https://gsa-LifeCare IT.slack.com/messages/design/)
+            * [dev](https://gsa-LifeCare IT.slack.com/messages/dev/) (Engineering)
+            * [product](https://gsa-LifeCare IT.slack.com/messages/product/)
+            * [strategy](https://gsa-LifeCare IT.slack.com/messages/strategy/)
+    * [infrastructure](https://gsa-LifeCare IT.slack.com/messages/infrastructure/)
+    * [opp](https://gsa-LifeCare IT.slack.com/messages/opp/)
         * OPP Portfolios?
 * Projects
-    * [cap](https://gsa-tts.slack.com/messages/cap/) (C2/Communicart)
-    * [cloud-gov](https://gsa-tts.slack.com/messages/cloud-gov/)
-    * [code-gov](https://gsa-tts.slack.com/messages/code-gov/)
-    * [ffd-general](https://gsa-tts.slack.com/messages/ffd-general/) (Federal Front Door)
+    * [cap](https://gsa-LifeCare IT.slack.com/messages/cap/) (C2/Communicart)
+    * [cloud-gov](https://gsa-LifeCare IT.slack.com/messages/cloud-gov/)
+    * [code-gov](https://gsa-LifeCare IT.slack.com/messages/code-gov/)
+    * [ffd-general](https://gsa-LifeCare IT.slack.com/messages/ffd-general/) (Federal Front Door)
     * etc.
 * Guilds: #g-*
 * Working groups: #wg-*
 * Locations
-    * [chitown](https://gsa-tts.slack.com/messages/chitown/)
-    * [cowork-across-america](https://gsa-tts.slack.com/messages/cowork-across-america/)
-    * [dc](https://gsa-tts.slack.com/messages/dc/)
-    * [michigan](https://gsa-tts.slack.com/messages/michigan/)
-    * [nyc](https://gsa-tts.slack.com/messages/nyc/)
-    * [sf](https://gsa-tts.slack.com/messages/sf/)
+    * [chitown](https://gsa-LifeCare IT.slack.com/messages/chitown/)
+    * [cowork-across-america](https://gsa-LifeCare IT.slack.com/messages/cowork-across-america/)
+    * [dc](https://gsa-LifeCare IT.slack.com/messages/dc/)
+    * [michigan](https://gsa-LifeCare IT.slack.com/messages/michigan/)
+    * [nyc](https://gsa-LifeCare IT.slack.com/messages/nyc/)
+    * [sf](https://gsa-LifeCare IT.slack.com/messages/sf/)
     * etc.
 * SaaS administration/support: #admins-*
 * Technologies
-    * [django](https://gsa-tts.slack.com/messages/django/)
-    * [docker](https://gsa-tts.slack.com/messages/docker/)
-    * [git](https://gsa-tts.slack.com/messages/git/)
-    * [javascript](https://gsa-tts.slack.com/messages/javascript/)
-    * [python](https://gsa-tts.slack.com/messages/python/)
-    * [ruby](https://gsa-tts.slack.com/messages/ruby/)
+    * [django](https://gsa-LifeCare IT.slack.com/messages/django/)
+    * [docker](https://gsa-LifeCare IT.slack.com/messages/docker/)
+    * [git](https://gsa-LifeCare IT.slack.com/messages/git/)
+    * [javascript](https://gsa-LifeCare IT.slack.com/messages/javascript/)
+    * [python](https://gsa-LifeCare IT.slack.com/messages/python/)
+    * [ruby](https://gsa-LifeCare IT.slack.com/messages/ruby/)
     * etc.
 
 ### Channel naming conventions
 
-- Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
+- Channels that begin with `admin-` include administrators for various tools. [#admins-slack](https://gsa-LifeCare IT.slack.com/messages/admins-slack/), for example, is used to request invites to Slack (see above), expunge a particularly offensive/off-topic message (see above), change the name of an existing channel, and so on.
 - Channels that begin with `wg-` are for working groups; channels that begin with `g-` are for guilds. See [the Grouplet Playbook](https://pages.18f.gov/grouplet-playbook/) for information about working groups and guilds. Feel free to join a working group or guild channel even if you are not actively part of the group.
 - Channels that end with `-partner` include partners from other agencies.
 - Channels that end with `-public` may include members of the public.
@@ -295,8 +296,8 @@ If you're interested in learning more about the bots, or perhaps contributing to
 - Type `/hero` to start Screen Hero automatically.
 - Type `[message XPOST #channel-name]` to cross-post a message to a different channel while posting it.
 - Type `/remind` to remind yourself to do something in the future.
-- Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-tts.slack.com/archive/love).
-- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack/).
+- Type `love @username for [message]` to publicly praise and thank someone. If [Charlie](#bots) is in the channel, it will copy your message to [#love](https://gsa-LifeCare IT.slack.com/archive/love).
+- Type `charlie hug bomb` for a dose of team love! To add your picture, email it to [Aidan Feldman](mailto:aidan.feldman@gsa.gov?subject=Please%20add%20me%20to%20the%20hug%20bomb) or post in [#admins-slack](https://gsa-LifeCare IT.slack.com/messages/admins-slack/).
 - Press `Option + Up` or `Option + Down` to switch between channels and direct messages.
 - Press `Esc` to mark all messages in the current channel as read.
 - Press `Shift + Esc` to mark all messages across all channels as read. Only do this if you’ve caught up in channels for your projects first.
@@ -308,4 +309,4 @@ If you're interested in learning more about the bots, or perhaps contributing to
 
 #### Still have questions?
 
-Ask in Slack: [#admins-slack](https://gsa-tts.slack.com/messages/admins-slack), [#it-issues](https://gsa-tts.slack.com/messages/it-issues), [#questions](https://gsa-tts.slack.com/messages/questions), [#teamops](https://gsa-tts.slack.com/messages/teamops)
+Ask in Slack: [#admins-slack](https://gsa-LifeCare IT.slack.com/messages/admins-slack), [#it-issues](https://gsa-LifeCare IT.slack.com/messages/it-issues), [#questions](https://gsa-LifeCare IT.slack.com/messages/questions), [#teamops](https://gsa-LifeCare IT.slack.com/messages/teamops)
