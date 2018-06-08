@@ -2,7 +2,7 @@
 title: Slack
 ---
 
-Slack is a chat client that provides us with a centralized way to communicate without overloading our inboxes.
+Slack is a collaboration tool that provides us with a centralized way to communicate in real-time without overloading our inboxes. Slack is similar to our IM tool we use today with several advantages such as Channels, Integrations and Mobile. Channels will allow us to bring conversations together by team, project or topic across the organization. Integrations will allow slack to integrate with many  software we have today and in the Future. The mobile app will bring the benefits of Slack to our devices. 
 
 ## Setup
 
